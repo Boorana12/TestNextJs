@@ -11,3 +11,5 @@ git branch -M main
 git remote add origin https://github.com/Boorana12/TestNextJs.git
 
 git push -u origin main คำสั่งในการ upload ไฟล์ 11111
+
+end
